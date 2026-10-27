@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:41:28.406Z",
+  "generated_at": "2026-10-27T23:28:40.760Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -131,6 +131,17 @@
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-10-27T21:41:28.899Z",
       "last_pushed_at": "2026-10-27T21:41:28.899Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-10-27T23:28:41.689Z",
+      "last_pushed_at": "2026-10-27T23:28:41.689Z"
     }
   }
 }
