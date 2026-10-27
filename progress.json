@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T23:42:44.589Z",
+  "generated_at": "2026-10-27T23:51:47.493Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -175,6 +175,17 @@
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-10-27T23:42:45.395Z",
       "last_pushed_at": "2026-10-27T23:42:45.395Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-10-27T23:51:48.442Z",
+      "last_pushed_at": "2026-10-27T23:51:48.442Z"
     }
   }
 }
