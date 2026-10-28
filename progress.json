@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T20:56:05.590Z",
+  "generated_at": "2026-10-28T21:01:04.162Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -223,6 +223,19 @@
       "path": "problems/0842-standardscaler-fit-and-transform",
       "first_solved_at": "2026-10-28T20:56:05.987Z",
       "last_pushed_at": "2026-10-28T20:56:05.987Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-10-28T21:01:04.154Z",
+      "last_pushed_at": "2026-10-28T21:01:04.154Z",
       "language": "python",
       "lines": 18
     }
