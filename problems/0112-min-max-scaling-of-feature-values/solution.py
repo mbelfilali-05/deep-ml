@@ -10,8 +10,8 @@ def min_max(x: list[float]) -> list[float]:
     Returns:
         A new list with values normalized to [0, 1]
     """
-    min_x = np.min(x)
-    max_x = np.max(x)
+    min_x = np.min(x, axis = 0)
+    max_x = np.max(x, axis = 0)
 
     normalized = (x-min_x)/(max_x - min_x)
     return normalized
